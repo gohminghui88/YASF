@@ -1,0 +1,8 @@
+D:\YASF\YASF\obj\Debug\YASF.csprojResolveAssemblyReference.cache
+D:\YASF\YASF\obj\Debug\YASF.MainForm.resources
+D:\YASF\YASF\obj\Debug\YASF.csproj.GenerateResource.Cache
+D:\YASF\YASF\bin\Debug\YASF.exe.config
+D:\YASF\YASF\bin\Debug\YASF.exe
+D:\YASF\YASF\bin\Debug\YASF.pdb
+D:\YASF\YASF\obj\Debug\YASF.exe
+D:\YASF\YASF\obj\Debug\YASF.pdb
